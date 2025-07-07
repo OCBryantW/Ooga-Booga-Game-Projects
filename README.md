@@ -17,7 +17,7 @@ Due to GitHub's file size limitations, the full source project and gameplay vide
 - C#
 
 ## 👨‍👩‍👧‍👦 Team Members
-- [Gleen Ryan]()
+- [Gleen Ryan](https://github.com/Gleenryan)
 - [Mammami44](https://github.com/mammami44)
 - [Kornelius Aldo](https://github.com/korneliusztx)
 - [Frederica Sharon](https://www.instagram.com/fredericasharon/)
