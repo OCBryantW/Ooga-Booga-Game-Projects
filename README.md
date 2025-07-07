@@ -15,9 +15,10 @@ Due to GitHub's file size limitations, the full source project and gameplay vide
 ## 🛠️ Built With
 - Unity
 - C#
-- Custom DLLs (if any)
 
 ## 👨‍👩‍👧‍👦 Team Members
-- Name 1  
-- Name 2  
-- etc.
+- [Gleen Ryan]()
+- [Mammami44](https://github.com/mammami44)
+- [Kornelius Aldo](https://github.com/korneliusztx)
+- [Frederica Sharon](https://www.instagram.com/fredericasharon/)
+- [Oei Christopher Bryant Widyanata](https://github.com/OCBryantW)
