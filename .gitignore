@@ -1,0 +1,12 @@
+# Unity generated folders to ignore
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
